@@ -1,0 +1,3 @@
+localhost:3308
+quanlypizza
+root
